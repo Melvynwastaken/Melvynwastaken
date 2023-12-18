@@ -26,5 +26,3 @@
 <a href="https://getbootstrap.com/"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-14354C.svg?logo=bootstrap&logoColor=white&color=mediumpurple"></a>
 
 ## Data scienist
-I mainly work on data visuals but am cable of working on the front-end projects.
-currently studying to be a full stack dev.
