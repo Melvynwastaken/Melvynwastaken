@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Melvyn Nibigira</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&center=true&vCenter=true&width=420&lines=A+software+engineer+with+passion)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&center=true&vCenter=true&width=420&lines=A+software+engineer+/data+scientist)](https://git.io/typing-svg)
 
 <img alt="Night Coding" src="https://media.giphy.com/media/aUovxH8Vf9qDu/giphy.gif" width=100% height="300px" align="center"/>
 
