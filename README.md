@@ -14,5 +14,3 @@
 <a href="https://nodejs.org/en/"><img alt="Nodejs" src="https://img.shields.io/badge/Nodejs-14354C.svg?logo=node.js&logoColor=black&color=darkgreen"></a>
 <a href="https://foalts.org/"><img alt="Foalts" src="https://img.shields.io/badge/Foalts-14354C.svg?logo=typescript&logoColor=white&color=skyblue"></a>
 <a href="https://getbootstrap.com/"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-14354C.svg?logo=bootstrap&logoColor=white&color=mediumpurple"></a>
-
-## Data scienist
