@@ -1,18 +1,31 @@
+## 🚀 Skills and Technologies
 
-Education Status:
-Bit-Academy
-// september-2023 - currently still on //
-Kon. Wilhelminaplein, Amsterdam
+### Programming Languages:
+- **Python**: Numpy, Pandas, Seaborn, PyCharm, Django, Jupyter, Keras
+- **C#**
+- **SQL**: MySQL, SQLite
 
-Skills:
-Python(Numpy,Pandas,Seaborn,Pycharm,Django,Jupyter)
-C#
-SQL(MySQL,SQLite,)
-GIT
-Power Bi
-Cloud: Azure
-phpMyAdmin
+### Version Control:
+- **GIT**
 
+### Data Visualization:
+- **Power BI**
 
-Contact:
-melvynu19@gmail.com
+### Cloud:
+- **Azure**
+
+### Web Development:
+- **phpMyAdmin**
+- **HTML/CSS**
+- **PHP**
+
+## 📈 Experience
+
+- Building and deploying web applications using **Django**.
+- Analyzing and visualizing data with **Pandas**, **Seaborn**, and **Power BI**.
+- Developing machine learning models using **Keras**.
+- Writing code in **C#** and **Python**.
+- Managing databases with **MySQL** and **SQLite**.
+- Utilizing **Azure** for cloud-based solutions and deployments.
+- Version control and collaboration with **GIT**.
+- Designing and managing web interfaces using **HTML/CSS** and **PHP**.
