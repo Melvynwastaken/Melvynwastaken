@@ -19,7 +19,7 @@
 - **HTML/CSS**
 - **PHP**
 
-## 📈 Experience
+## 📈 Experience/familiar
 
 - Building and deploying web applications using **Django**.
 - Analyzing and visualizing data with **Pandas**, **Seaborn**, and **Power BI**.
