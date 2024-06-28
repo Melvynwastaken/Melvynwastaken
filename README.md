@@ -1,4 +1,4 @@
-## 🚀 Skills and Technologies
+## Skills and Technologies
 
 ### Programming Languages:
 - **Python**: Numpy, Pandas, Seaborn, PyCharm, Django, Jupyter, Keras
