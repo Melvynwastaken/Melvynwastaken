@@ -1,8 +1,7 @@
-- Building and deploying web applications using **Django**.
-- Analyzing and visualizing data with **Pandas**, **Seaborn**, and **Power BI**.
-- Developing machine learning models using **Keras**.
-- Writing code in **C#** and **Python**.
-- Managing databases with **MySQL** and **SQLite**.
-- Utilizing **Azure** for cloud-based solutions and deployments.
-- Version control and collaboration with **GIT**.
-- Designing and managing web interfaces using **HTML/CSS** and **PHP**.
+- **Pandas**,**Matplotlib**, **Seaborn**, and **Power BI**.
+-  **Keras**.
+   **Java**,**C#** and **Python**.
+-  **MySQL** and **SQLite**.
+-  **Azure**.
+-  **GIT**.
+- **HTML/CSS** and **PHP**.
